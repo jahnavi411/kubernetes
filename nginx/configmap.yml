@@ -1,0 +1,7 @@
+kind: ConfigMap
+apiversion: v1
+metadata:
+  name: nginx-config-map
+  namespace: nginx
+data:
+
